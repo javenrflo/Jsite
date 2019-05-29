@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Javier E. Flores
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate, Biostatistics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Iowa
+  url: "https://www.public-health.uiowa.edu/biostat/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Model Selection
+- Post-Selection Inference
+- Computational Statistics
+- Statistics Education
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD, Biostatistics
+    institution: University of Iowa
+    year: 2020 (Expected)
+  - course: MSc, Biostatistics
+    institution: University of Iowa
+    year: 2017
+  - course: BSc, Chemistry
+    institution: University of Texas at Brownsville
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +45,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: mailto:javier.flores1123@gmail.com
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/javenrflo
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/javier-flores-2702b3172/
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +71,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Originally from the subtropical paradise that is Brownsville, Texas, Javier experienced a temporary lapse of sanity in 2015 when he decided to leave Brownsville to pursue a PhD in Biostatistics at the not-so-subtropically located University of Iowa.  He has since remained at Iowa (despite presumably regaining his sanity) because, as it would so happen, Javier has had a really great time learning about statistics and working with some incredible people...not to mention that he still has a dissertation to write :sweat_smile:!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+<!--
+A couple of the statistical topics Javier has developed a particular interest in are model selection (especially in high-dimensional settings) and post-selection inference. Through his professional collaborations with individuals outside the Department of Biostatistics, he has also developed an appreciation for injury epidemiological and health disparities research.
+
+Research activity aside, Javier is actively involved within his student and professional community, having held presidential positions (among other roles of high responsibility) within departmental and collegiate organizations. Javier has a deep passion for teaching and mentoring, and is fortunate enough to consistently do both through the Iowa Summer Institute in Biostatistics (ISIB) - a summer program designed to provide biostatistical research education and training to undergraduate students, particularly those from underrepresented backgrounds.
+-->
