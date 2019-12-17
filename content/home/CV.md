@@ -30,8 +30,9 @@ group_logo = "logo/herky-removebg.png"
 
 +++
 
-**Javier E. Flores** is a PhD candidate in the Department of Biostatistics at the University of Iowa. His dissertation work explores a suite of model selection tools which provide utility towards predictive modeling, model selection in big-data settings, and post-selection inference.
+**Javier E. Flores** is a PhD candidate in the Department of Biostatistics at the University of Iowa. His dissertation work involves the development of model selection criteria which provides utility in predictive modeling applications. The developed criteria can accommodate the personalized/precision medicine framework by allowing for observation-specific model selection. 
 
+ - Mentor for First and Third Place Submissions to Undergraduate Statistics Class Project Competition (Spring), 2019
  - William R. Clarke Graduate Research Assistant Award, 2019  
  - College of Public Health Research Week Poster Award, 2018  
  - Leon F. Burmeister Graduate Student Service Award, 2018

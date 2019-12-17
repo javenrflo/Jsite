@@ -23,8 +23,8 @@ bio:
 interests:
 - Model Selection
 - Post-Selection Inference
-- Computational Statistics
-- Statistics Education
+- Causal Inference
+- Bayesian Statistics
 
 education:
   courses:
@@ -45,13 +45,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:javier.flores1123@gmail.com
+  link: mailto:javenrflo.pro@pm.me
 - icon: github
   icon_pack: fab
   link: https://github.com/javenrflo
-- icon: linkedin
-  icon_pack: fab
-  link: https://linkedin.com/in/javier-flores-2702b3172/
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://linkedin.com/in/javier-flores-2702b3172/
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
@@ -71,7 +71,16 @@ user_groups:
 - Visitors
 ---
 
-Originally from the subtropical paradise that is Brownsville, Texas, Javier experienced a temporary lapse of sanity in 2015 when he decided to leave Brownsville to pursue a PhD in Biostatistics at the not-so-subtropically located University of Iowa.  He has since remained at Iowa (despite presumably regaining his sanity) because, as it would so happen, Javier has had a really great time learning about statistics and working with some incredible people...not to mention that he still has a dissertation to write :sweat_smile:!
+I am a PhD candidate in the Department of Biostatistics at the University of Iowa, where, as a native Texan, I have learned why most folks from the Midwest don't get excited seeing snow.  Also, "Iowa-niceness" is real.
+
+I have served as a collaborating statistician throughout my time as a graduate student, and,  through this role, I have worked with professionally diverse teams to explore questions within the realm of injury epidemiology. I am currently working with a team of legal experts, an epidemiologist, and a psychologist to investigate the longitudinal effects of state-level anti-bullying legislation on bullying and other youth violence outcomes.
+
+My dissertation work involves the development of model selection criteria with increased utility in predictive modeling applications. Recognizing the rising popularity of personalized/precision medicine, our criteria allow for the selection of a predictive model specific to and informed by the attributes characterizing an individual of interest.
+
+Outside of my collaborative and methodological work I have served key roles in various departmental and collegiate organizations and committees. I am also regularly involved with our department's Summer Institute in Biostatistics, which is a seven week program that provides training in biostatistics to undergraduate students - primarily those from underrepresented backgrounds.
+
+*The Shining* taught me that "All work and no play makes ~~Jack~~ Javier a dull boy," so I spend time reading manga, playing with my dogs, and making (often bad) attempts at new dinner recipes. I also enjoy listening to music, with reggae and heavy metal being my favorite genres.
+
 
 <!--
 A couple of the statistical topics Javier has developed a particular interest in are model selection (especially in high-dimensional settings) and post-selection inference. Through his professional collaborations with individuals outside the Department of Biostatistics, he has also developed an appreciation for injury epidemiological and health disparities research.

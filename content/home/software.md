@@ -34,31 +34,31 @@ height = "450px"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
 
-[[item]]
-  title = "Longitudinal Clustering"
-  content = "R Shiny Application"
-  align = "center"
-
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = "software/longclust.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-    
-  cta_label = "Link"
-  cta_url = "https://ph-shiny.iowa.uiowa.edu/javflores/RA_apps/BP%20Project/Policy%20Cluster%20Analyses/"
-  # cta_icon_pack = "fas"
-  # cta_icon = "graduation-cap"
-
-[[item]]
-  title = "Principal Components Regression"
-  content = "R Shiny Application"
-  align = "center"
-
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "software/pcreg.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-  
-  cta_label = "Link"
-  cta_url = "https://ph-shiny.iowa.uiowa.edu/javflores/RA_apps/Bullying_Policy_Implementation/"
-  # cta_icon_pack = "fas"
-  # cta_icon = "graduation-cap" 
+# [[item]]
+#   title = "Longitudinal Clustering"
+#   content = "R Shiny Application"
+#   align = "center"
+# 
+#   overlay_color = "#333"  # An HTML color value.
+#   overlay_img = "software/longclust.png"  # Image path relative to your `static/img/` folder.
+#   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+#     
+#   cta_label = "Link"
+#   cta_url = "https://ph-shiny.iowa.uiowa.edu/javflores/RA_apps/BP%20Project/Policy%20Cluster%20Analyses/"
+#   # cta_icon_pack = "fas"
+#   # cta_icon = "graduation-cap"
+# 
+# [[item]]
+#   title = "Principal Components Regression"
+#   content = "R Shiny Application"
+#   align = "center"
+# 
+#   overlay_color = "#555"  # An HTML color value.
+#   overlay_img = "software/pcreg.png"  # Image path relative to your `static/img/` folder.
+#   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+#   
+#   cta_label = "Link"
+#   cta_url = "https://ph-shiny.iowa.uiowa.edu/javflores/RA_apps/Bullying_Policy_Implementation/"
+#   # cta_icon_pack = "fas"
+#   # cta_icon = "graduation-cap" 
 +++
