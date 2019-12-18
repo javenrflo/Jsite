@@ -71,15 +71,13 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in the Department of Biostatistics at the University of Iowa, where, as a native Texan, I have learned why most folks from the Midwest don't get excited seeing snow.  Also, "Iowa-niceness" is real.
+I am a PhD candidate and graduate research assistant in the Department of Biostatistics at the University of Iowa. Through my role as a graduate research assistant, I have acted as the collaborating statistician and worked with professionally diverse teams to explore questions within the realm of injury epidemiology. I am currently working with a team of legal experts, an epidemiologist, and a psychologist to investigate the longitudinal effects of state-level anti-bullying legislation on bullying and other youth violence outcomes.
 
-I have served as a collaborating statistician throughout my time as a graduate student, and,  through this role, I have worked with professionally diverse teams to explore questions within the realm of injury epidemiology. I am currently working with a team of legal experts, an epidemiologist, and a psychologist to investigate the longitudinal effects of state-level anti-bullying legislation on bullying and other youth violence outcomes.
-
-My dissertation work involves the development of model selection criteria with increased utility in predictive modeling applications. Recognizing the rising popularity of personalized/precision medicine, our criteria allow for the selection of a predictive model specific to and informed by the attributes characterizing an individual of interest.
+My dissertation work involves the development of model selection criteria which may be used to identify the best predictive model among a candidate set. Recognizing the rising popularity of personalized/precision medicine, our criteria allow for the selection of a locally optimal predictive model specific to and informed by the attributes characterizing an individual of interest.
 
 Outside of my collaborative and methodological work I have served key roles in various departmental and collegiate organizations and committees. I am also regularly involved with our department's Summer Institute in Biostatistics, which is a seven week program that provides training in biostatistics to undergraduate students - primarily those from underrepresented backgrounds.
 
-*The Shining* taught me that "All work and no play makes ~~Jack~~ Javier a dull boy," so I spend time reading manga, playing with my dogs, and making (often bad) attempts at new dinner recipes. I also enjoy listening to music, with reggae and heavy metal being my favorite genres.
+When I'm not doing any of these other things, I spend time reading manga, playing with my dogs, and making (often bad) attempts at new dinner recipes. I also enjoy listening to music, with reggae and heavy metal being my favorite genres.
 
 
 <!--
