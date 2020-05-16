@@ -13,21 +13,21 @@
   url = "#CV"
   weight = 20
 
-[[main]]
-  name = "Research"
-  url = "#research"
-  weight = 30
+# [[main]]
+#   name = "Research"
+#   url = "#research"
+#   weight = 30
 
-[[main]]
-  name = "Software"
-  url = "#software"
-  weight = 40
+# [[main]]
+#   name = "Software"
+#   url = "#software"
+#   weight = 40
 
 [[main]]
   name = "Teaching"
   url = "#teaching"
   weight = 50
-  
+
 [[main]]
   name = "Contact"
   url = "#contact"

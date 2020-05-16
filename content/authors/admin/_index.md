@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate, Biostatistics
+role: Ph.D Candidate, Biostatistics
 
 # Organizations/Affiliations
 organizations:
@@ -22,19 +22,20 @@ bio:
 
 interests:
 - Model Selection
-- Post-Selection Inference
+- Predictive Modeling
 - Causal Inference
 - Bayesian Statistics
+- Statistical Computing
 
 education:
   courses:
-  - course: PhD, Biostatistics
+  - course: Ph.D, Biostatistics
     institution: University of Iowa
     year: 2020 (Expected)
-  - course: MSc, Biostatistics
+  - course: M.Sc, Biostatistics
     institution: University of Iowa
     year: 2017
-  - course: BSc, Chemistry
+  - course: B.Sc, Chemistry
     institution: University of Texas at Brownsville
     year: 2015
 
@@ -71,13 +72,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate and graduate research assistant in the Department of Biostatistics at the University of Iowa. Through my role as a graduate research assistant, I have acted as the collaborating statistician and worked with professionally diverse teams to explore questions within the realm of injury epidemiology. I am currently working with a team of legal experts, an epidemiologist, and a psychologist to investigate the longitudinal effects of state-level anti-bullying legislation on bullying and other youth violence outcomes.
-
-My dissertation work involves the development of model selection criteria which may be used to identify the best predictive model among a candidate set. Recognizing the rising popularity of personalized/precision medicine, our criteria allow for the selection of a locally optimal predictive model specific to and informed by the attributes characterizing an individual of interest.
-
-Outside of my collaborative and methodological work I have served key roles in various departmental and collegiate organizations and committees. I am also regularly involved with our department's Summer Institute in Biostatistics, which is a seven week program that provides training in biostatistics to undergraduate students - primarily those from underrepresented backgrounds.
-
-When I'm not doing any of these other things, I spend time reading manga, playing with my dogs, and making (often bad) attempts at new dinner recipes. I also enjoy listening to music, with reggae and heavy metal being my favorite genres.
+Feel free to take a look around. If you're visiting as a potential employer, be sure to check out the CV snapshot for a quick summary of my professional identity. If visiting as a student, a link to course materials is just a bit further down. And finally, if visiting for no reason at all, I only ask that you re-evaluate what you do for fun :smiley:
 
 
 <!--
