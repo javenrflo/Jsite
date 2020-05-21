@@ -31,13 +31,13 @@ education:
   courses:
   - course: Ph.D, Biostatistics
     institution: University of Iowa
-    year: 2020 (Expected)
+    year: 2021 (Expected)
   - course: M.Sc, Biostatistics
     institution: University of Iowa
     year: 2017
   - course: B.Sc, Chemistry
     institution: University of Texas at Brownsville
-    year: 2015
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
